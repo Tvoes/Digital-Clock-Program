@@ -26,7 +26,7 @@ body{
 }
 }
 
-@media (max-width: 481px) {
+@media only screen and (max-width: 600px) {
    body{
     background-image: url(oldFeelingRoad.jpg);
     background-position: center;
@@ -58,6 +58,7 @@ body{
     background-color: hsla(240, 100%, 99%, 0.179);
 }
 }
+
 
 
 
